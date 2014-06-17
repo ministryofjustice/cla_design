@@ -12,11 +12,10 @@
 	<array>
 		<string>GDSTransportWebsite-Bold</string>
 		<string>GDSTransportWebsite</string>
-		<string>LucidaGrande-Bold</string>
 		<string>LucidaGrande</string>
 	</array>
 	<key>length</key>
-	<integer>5330177</integer>
+	<integer>4787647</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
