@@ -10,13 +10,13 @@
 	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
 	<key>fonts</key>
 	<array>
-		<string>GDSTransportWebsite</string>
 		<string>GDSTransportWebsite-Bold</string>
+		<string>GDSTransportWebsite</string>
 		<string>Helvetica</string>
 		<string>LucidaGrande</string>
 	</array>
 	<key>length</key>
-	<integer>2331542</integer>
+	<integer>2486480</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
