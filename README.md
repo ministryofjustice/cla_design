@@ -7,6 +7,17 @@ The current configuration of design files is according to the role of the end-us
 * **The operator** in the call centre who answers the phone and determines the member of the public's problem and context and conducts the means test for the user
 * **The Specialist Provider** who is a legal professional who is assigned the case by the operator and will handle the user's case
 
+## Update (30 July 2014)
+- General progress on design
+- The file is setup in pages in Sketch
+-- Styles for the whole case handling system
+-- Icons (as symbols) that are used throughout
+- Each flow has a page:
+-- Operator receiving a case digitally or through call
+-- The Operator adding contact details
+-- Help
+-- Alerts
+
 ## A note on branches (27 May 2014)
 
 There are currently three branches to facilitate design for user testing.
