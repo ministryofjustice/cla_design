@@ -10,13 +10,15 @@
 	<string>104f8b8798002207eebbbee810c02306c5ce85c9</string>
 	<key>fonts</key>
 	<array>
-		<string>GDSTransportWebsite</string>
+		<string>Bliss2-Light</string>
+		<string>Bliss2-Bold</string>
 		<string>GDSTransportWebsite-Bold</string>
+		<string>GDSTransportWebsite</string>
 		<string>LucidaGrande</string>
 		<string>Helvetica</string>
 	</array>
 	<key>length</key>
-	<integer>11984526</integer>
+	<integer>11856794</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
