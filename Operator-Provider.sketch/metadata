@@ -12,14 +12,13 @@
 	<array>
 		<string>Bliss2-Light</string>
 		<string>Bliss2-Bold</string>
+		<string>Bliss2-Regular</string>
 		<string>GDSTransportWebsite</string>
 		<string>GDSTransportWebsite-Bold</string>
 		<string>LucidaGrande</string>
-		<string>Helvetica</string>
-		<string>Bliss2-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>12177246</integer>
+	<integer>11530198</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
