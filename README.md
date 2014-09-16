@@ -7,6 +7,8 @@ Civil Legal Aid is a service by the UK Ministry of Justice (MOJ) that provides l
 
 The Civil Legal Aid (CLA) tool is a number of interconnected services built by [MOJ Digital Services (MOJDS)](https://mojdigital.blog.gov.uk) to allow someone in need to file a case either digitally or over the phone, and have that case processed  by an operator and if eligible assigned to a specialist provider who will then provide the person with legal aid.
 
+The CLA call centre handles somewhere around 20,000 calls per month (7.5 average call time) and the operator fields calls from desperate people with problems ranging from imminent homelessness to domestic physical abuse, and therefore needs to concentrate on letting the call progress with as little distraction to the caller (User) while guiding them through the process as quickly and efficiently as possible.
+
 ## Who is going to use it
 
 * **The user** who is the member of the public and fills in the form themselves to determine whether or not they are eligible for Civil Legal Aid
@@ -23,12 +25,8 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 * Contact&Adaptations - This covers how an Operator adds the User’s details whilst handling a call. The Provider would see the same information which they would need to verify and can change if need be.
 * Headers&Alerts - The design of how alerts would work in the system.
 
-**cla-icons.sketch** - A template for the icon font produced using [gulp-iconfont](https://www.npmjs.org/package/gulp-iconfont) which creates icon fonts from SVG icons and [gulp-iconfont-css](https://www.npmjs.org/package/gulp-iconfont-css) which generates the (S)CSS file for the icon font created with Gulp.
+**cla-icons.sketch** - A template for the icon font produced using [gulp-iconfont](https://www.npmjs.org/package/gulp-iconfont) which creates icon fonts from SVG icons and [gulp-iconfont-css](https://www.npmjs.org/package/gulp-iconfont-css) which generates the (S)CSS file for the icon font created with Gulp. The icons are 512w x 512h to generate the icon font, however they are designed to display at 16px.
 
 **User.sketch** - The design for the form that the member of the public would use via [GOV.UK](https://www.gov.uk)
 
 **User_mobile.sketch** - Designs for how the user form would look for mobile.
-
-## Thoughts on design for the CLA tool
-
-The CLA call centre handles somewhere around 20,000 calls per month (7.5 average call time) and the operator fields calls from desperate people with problems ranging from imminent homelessness to domestic physical abuse, and therefore needs to concentrate on letting the call progress with as little distraction to the caller (User) while guiding them through the process as quickly and efficiently as possible.
