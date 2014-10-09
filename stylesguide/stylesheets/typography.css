@@ -1,0 +1,120 @@
+/* Text Styles from Sketch */
+
+.p {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #0B0C0C;
+	line-height: 22px;
+}
+
+.p-secondary {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #6F777B;
+	line-height: 22px;
+}
+
+.button-text {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #000000;
+	line-height: 19px;
+}
+
+.button-primary-text {
+	font-family: GDSTransportWebsite-Bold;
+	font-size: 14px;
+	color: #FFFFFF;
+	line-height: 20px;
+}
+
+.a {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #005EA5;
+	line-height: 22px;
+}
+
+.p-strong {
+	font-family: GDSTransportWebsite-Bold;
+	font-size: 14px;
+	color: #0B0C0C;
+	line-height: 22px;
+}
+
+.label-selected-white {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #FFFFFF;
+	line-height: 19px;
+}
+
+.label-unselected-blue {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #2C8CC5;
+	line-height: 19px;
+}
+
+.p-warning {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #DF3034;
+	line-height: 22px;
+}
+
+.code {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #6F777B;
+	line-height: 19px;
+}
+
+.button-text-inactive {
+	font-family: GDSTransportWebsite;
+	font-size: 14px;
+	color: #6F777B;
+	line-height: 19px;
+}
+
+.h3 {
+	font-family: GDSTransportWebsite-Bold;
+	font-size: 19px;
+	color: #0B0C0C;
+	line-height: 22px;
+}
+
+.h3-.linked {
+	font-family: GDSTransportWebsite;
+	font-size: 19px;
+	color: #005EA5;
+	line-height: 22px;
+}
+
+.h3-.light {
+	font-family: GDSTransportWebsite;
+	font-size: 19px;
+	color: #0B0C0C;
+	line-height: 22px;
+}
+
+.h2 {
+	font-family: GDSTransportWebsite;
+	font-size: 25px;
+	color: #0B0C0C;
+	line-height: 44px;
+}
+
+.h2-.light {
+	font-family: GDSTransportWebsite;
+	font-size: 25px;
+	color: #0B0C0C;
+	line-height: 44px;
+}
+
+.h1 {
+	font-family: GDSTransportWebsite-Bold;
+	font-size: 33px;
+	color: #0B0C0C;
+	line-height: 44px;
+}
