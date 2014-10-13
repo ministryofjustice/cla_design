@@ -5,9 +5,11 @@ Design of the Civil Legal Aid (CLA) tool
 
 Civil Legal Aid is a service by the UK Ministry of Justice (MOJ) that provides legal aid and advice for those who can’t afford it.
 
-The Civil Legal Aid (CLA) tool is a number of interconnected services built by [MOJ Digital Services (MOJDS)](https://mojdigital.blog.gov.uk) to allow someone in need to file a case either digitally or over the phone, and have that case processed  by an operator and if eligible assigned to a specialist provider who will then provide the person with legal aid.
+The Civil Legal Aid (CLA) tool is a number of interconnected services built by [MOJ Digital Services (MOJDS)](https://mojdigital.blog.gov.uk) to allow someone to file a case either digitally or over the phone, and have that case processed by an operator, and if eligible, assigned to a specialist provider who will then provide the person with legal aid.
 
 The CLA call centre handles somewhere around 20,000 calls per month (7.5 minute average call time) and the operator fields calls from people with problems ranging from imminent homelessness to domestic physical abuse to just general legal enquiries. The application therefore needs to concentrate on letting the call progress with as little distraction to the caller (User) while guiding them through the process as quickly and efficiently as possible.
+
+The tool is designed to cut call time and case handling costs by half by encouraging the Operator to follow the lead of the caller and to not prescribe too much process on the information gathering, thus providing a better and more efficient service.
 
 ## Who is going to use it
 
