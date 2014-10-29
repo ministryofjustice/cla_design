@@ -30,3 +30,19 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 ## Links
 [CLA frontend GitHub](https://github.com/ministryofjustice/cla_frontend)
 [Governmental Digital Services Design Notes](https://designnotes.blog.gov.uk)
+
+## Styles & Elements
+
+![Typography](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Typography.png)
+
+![Colours](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Colours.png)
+
+![Buttons](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Buttons.png)
+
+![Tabs & Pills](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Tabs&Pills.png)
+
+![Labels](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Labels.png)
+
+![Forms](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Forms.png)
+
+![Progress bars](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Progressbars.png)
