@@ -34,7 +34,7 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 ## Styles & Elements
 
 ### Typography
-<img src="https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Typography.png">
+<img src="https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Typography.png" width="728">
 
 ### Colours
 ![Colours](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Colours.png)
