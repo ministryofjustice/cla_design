@@ -44,16 +44,26 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 </p>
 
 ### Buttons
-![Buttons](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Buttons.png)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/495102/4830248/7806b9c8-5f8c-11e4-95fd-7452bdc7d952.png">
+</p>
 
 ### Tabs & Pills
-![Tabs & Pills](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Tabs&Pills.png)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
+</p>
 
 ### Labels
-![Labels](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Labels.png)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
+</p>
 
 ### Forms
-![Forms](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider//Forms.png)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
+</p>
 
 ### Progress bars
-![Progress bars](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Progressbars.png)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
+</p>
