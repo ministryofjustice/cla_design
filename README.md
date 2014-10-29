@@ -47,23 +47,3 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/495102/4830248/7806b9c8-5f8c-11e4-95fd-7452bdc7d952.png">
 </p>
-
-### Tabs & Pills
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
-</p>
-
-### Labels
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
-</p>
-
-### Forms
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
-</p>
-
-### Progress bars
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
-</p>
