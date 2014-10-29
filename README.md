@@ -52,4 +52,4 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 ![Forms](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Forms.png)
 
 ### Progress bars
-![Progress bars](https://github.com/ministryofjustice/cla_design/blob/master/Operator-Provider/Progressbars.png)
+![Progress bars](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Progressbars.png)
