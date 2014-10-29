@@ -39,7 +39,9 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 </p>
 
 ### Colours
-![Colours](https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png">
+</p>
 
 ### Buttons
 ![Buttons](https://raw.githubusercontent.com/ministryofjustice/cla_design/master/Operator-Provider/Buttons.png)
