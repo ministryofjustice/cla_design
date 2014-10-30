@@ -35,7 +35,7 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 
 ### Typography
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/495102/4829414/f6058efe-5f86-11e4-81c0-8dfa9538031a.png" />
+  <img src="https://cloud.githubusercontent.com/assets/495102/4829414/f6058efe-5f86-11e4-81c0-8dfa9538031a.png">
 </p>
 
 ### Colours
@@ -47,3 +47,20 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/495102/4830248/7806b9c8-5f8c-11e4-95fd-7452bdc7d952.png">
 </p>
+
+### Tabs & Pills
+<p align="center">
+	<img src=“https://cloud.githubusercontent.com/assets/495102/4841797/882ed1d6-601e-11e4-9d41-d9120318a335.png”>
+</p>
+
+### Labels
+![](https://cloud.githubusercontent.com/assets/495102/4841901/b3f2878a-601f-11e4-9ba3-a8a807271d7b.png)
+
+### Forms
+![](https://cloud.githubusercontent.com/assets/495102/4841916/d0a1bdce-601f-11e4-97e3-362671c5df76.png)
+
+### Blockquotes
+![](https://cloud.githubusercontent.com/assets/495102/4841921/e2f28558-601f-11e4-8689-705a737082fe.png)
+
+### Progress bars
+![](https://cloud.githubusercontent.com/assets/495102/4841932/f33e2660-601f-11e4-9aec-cc6bf92c2e1b.png)
