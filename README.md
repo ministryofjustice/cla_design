@@ -64,12 +64,14 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 ### Progress bars
 > ![](https://cloud.githubusercontent.com/assets/495102/4841932/f33e2660-601f-11e4-9aec-cc6bf92c2e1b.png)
 
-#### Screens
+- - - -
+
+### Screens
 Admin case handling system queue
-<img src="https://cloud.githubusercontent.com/assets/495102/4885437/9ee16796-6374-11e4-9801-e898b97222e7.png" style="border:1px solid black">
+<img src="https://cloud.githubusercontent.com/assets/495102/4885828/6d2b8382-6377-11e4-9c32-12666f146c9d.png">
 
 Case interface assessment test
-<img src="https://cloud.githubusercontent.com/assets/495102/4885447/a86a2c12-6374-11e4-81b6-51043617baca.png" style="border:1px solid black">
+<img src="https://cloud.githubusercontent.com/assets/495102/4885808/4c761e22-6377-11e4-8237-2544e630279e.png">
 
 Assigning a case for Civil Legal Aid
-<img src="https://cloud.githubusercontent.com/assets/495102/4885434/9872aece-6374-11e4-9081-002768376740.png" style="border:1px solid black">
+<img src="https://cloud.githubusercontent.com/assets/495102/4885846/81b31e00-6377-11e4-9fa8-df8462199c92.png">
