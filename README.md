@@ -66,10 +66,10 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 
 #### Screens
 Admin case handling system queue
-<img src="https://cloud.githubusercontent.com/assets/495102/4885437/9ee16796-6374-11e4-9801-e898b97222e7.png" border="1">
+<img src="https://cloud.githubusercontent.com/assets/495102/4885437/9ee16796-6374-11e4-9801-e898b97222e7.png" style="border:1px solid black">
 
 Case interface assessment test
-<img src="https://cloud.githubusercontent.com/assets/495102/4885447/a86a2c12-6374-11e4-81b6-51043617baca.png" border="1">
+<img src="https://cloud.githubusercontent.com/assets/495102/4885447/a86a2c12-6374-11e4-81b6-51043617baca.png" style="border:1px solid black">
 
 Assigning a case for Civil Legal Aid
-<img src="https://cloud.githubusercontent.com/assets/495102/4885434/9872aece-6374-11e4-9081-002768376740.png" border="1"
+<img src="https://cloud.githubusercontent.com/assets/495102/4885434/9872aece-6374-11e4-9081-002768376740.png" style="border:1px solid black">
