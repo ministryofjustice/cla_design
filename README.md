@@ -32,8 +32,11 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 # Links
 [CLA frontend GitHub](https://github.com/ministryofjustice/cla_frontend)
 
-
 [Governmental Digital Services Design Notes](https://designnotes.blog.gov.uk)
+
+![Cases queue - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265710243_cla-case-list.gif)
+
+![Case interface - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
 
 # Styles & Elements
 
@@ -61,10 +64,12 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 ### Progress bars
 > ![](https://cloud.githubusercontent.com/assets/495102/4841932/f33e2660-601f-11e4-9aec-cc6bf92c2e1b.png)
 
-- - -
+#### Screens
+Admin case handling system queue
+![](https://cloud.githubusercontent.com/assets/495102/4885437/9ee16796-6374-11e4-9801-e898b97222e7.png)
 
-## Current deployed version
+Case interface assessment test
+![](https://cloud.githubusercontent.com/assets/495102/4885447/a86a2c12-6374-11e4-81b6-51043617baca.png)
 
-![Cases queue - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265710243_cla-case-list.gif)
-
-![Case interface - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
+Assigning a case for Civil Legal Aid
+![](https://cloud.githubusercontent.com/assets/495102/4885434/9872aece-6374-11e4-9081-002768376740.png)
