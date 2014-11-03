@@ -17,6 +17,8 @@ The overall design of the interface is furthering the standards in the [GDS Desi
 
 **The Specialist Provider** who is a legal professional who is assigned the case by the operator and will handle the user's case
 
+https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif
+
 # Design files
 
 The design is done for the most part in [Bohemian Coding’s Sketch](http://bohemiancoding.com/sketch) with the following files:
