@@ -61,6 +61,8 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 ### Progress bars
 > ![](https://cloud.githubusercontent.com/assets/495102/4841932/f33e2660-601f-11e4-9aec-cc6bf92c2e1b.png)
 
+### Current deployed version
+
 ![Cases queue - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265710243_cla-case-list.gif)
 
 ![Case interface - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
