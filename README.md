@@ -34,9 +34,9 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 
 [Governmental Digital Services Design Notes](https://designnotes.blog.gov.uk)
 
-![Cases queue - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265710243_cla-case-list.gif)
+[Cases queue - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265710243_cla-case-list.gif)
 
-![Case interface - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
+[Case interface - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
 
 # Styles & Elements
 
@@ -45,11 +45,11 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 
 ### Colours
 > ![](https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png)
-
 ### Buttons
 > ![](https://cloud.githubusercontent.com/assets/495102/4830248/7806b9c8-5f8c-11e4-95fd-7452bdc7d952.png)
 
 ### Tabs & Pills
+
 > ![](https://cloud.githubusercontent.com/assets/495102/4841797/882ed1d6-601e-11e4-9d41-d9120318a335.png)
 
 ### Labels
@@ -66,10 +66,10 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 
 #### Screens
 Admin case handling system queue
-![](https://cloud.githubusercontent.com/assets/495102/4885437/9ee16796-6374-11e4-9801-e898b97222e7.png)
+<img src="https://cloud.githubusercontent.com/assets/495102/4885437/9ee16796-6374-11e4-9801-e898b97222e7.png" border="1">
 
 Case interface assessment test
-![](https://cloud.githubusercontent.com/assets/495102/4885447/a86a2c12-6374-11e4-81b6-51043617baca.png)
+<img src="https://cloud.githubusercontent.com/assets/495102/4885447/a86a2c12-6374-11e4-81b6-51043617baca.png" border="1">
 
 Assigning a case for Civil Legal Aid
-![](https://cloud.githubusercontent.com/assets/495102/4885434/9872aece-6374-11e4-9081-002768376740.png)
+<img src="https://cloud.githubusercontent.com/assets/495102/4885434/9872aece-6374-11e4-9081-002768376740.png" border="1"
