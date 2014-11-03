@@ -17,7 +17,9 @@ The overall design of the interface is furthering the standards in the [GDS Desi
 
 **The Specialist Provider** who is a legal professional who is assigned the case by the operator and will handle the user's case
 
-[](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
+[Cases queue - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265710243_cla-case-list.gif)
+
+[Case interface - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
 
 # Design files
 
