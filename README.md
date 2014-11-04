@@ -66,7 +66,7 @@ The design is done for the most part in [Bohemian Coding’s Sketch](http://bohe
 
 - - - -
 
-### Screens
+### Key screens
 Admin case handling system queue
 <img src="https://cloud.githubusercontent.com/assets/495102/4885828/6d2b8382-6377-11e4-9c32-12666f146c9d.png">
 
