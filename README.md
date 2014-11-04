@@ -75,3 +75,7 @@ Case interface assessment test
 
 Assigning a case for Civil Legal Aid
 <img src="https://cloud.githubusercontent.com/assets/495102/4885846/81b31e00-6377-11e4-9fa8-df8462199c92.png">
+
+- - - -
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
