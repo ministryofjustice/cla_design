@@ -9,6 +9,8 @@ The CLA call centre handles somewhere around 20,000 calls per month (7.5 minute 
 
 The overall design of the interface is furthering the standards in the [GDS Design Manual](https://www.gov.uk/service-manual/designers) and has been expanded to create a developing standard for government-wide back-end and internal tools.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 # Who is going to use it
 
 **The user** who is the member of the public and fills in the form themselves to determine whether or not they are eligible for Civil Legal Aid
@@ -72,10 +74,4 @@ A template for the icon font produced using [gulp-iconfont](https://www.npmjs.or
 
 <img src=“https://cloud.githubusercontent.com/assets/495102/4976671/0bb96f2a-68df-11e4-8d69-bbcb85d71684.png”>
 
-[They’re available in this repo here](https://github.com/ministryofjustice/cla_design/tree/master/cla-icons”)
-
 All of the icons used in the project are free and open to use under [the CC license below](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-- - - -
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
