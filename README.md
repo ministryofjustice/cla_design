@@ -72,6 +72,6 @@ Assigning a case for Civil Legal Aid
 
 A template for the icon font produced using [gulp-iconfont](https://www.npmjs.org/package/gulp-iconfont) which creates icon fonts from SVG icons and [gulp-iconfont-css](https://www.npmjs.org/package/gulp-iconfont-css) which generates the (S)CSS file for the icon font created with Gulp. Both require Node.js. The icons are 512w x 512h to generate the icon font, however they are designed to display at 16px.
 
-<img src=“https://cloud.githubusercontent.com/assets/495102/4976671/0bb96f2a-68df-11e4-8d69-bbcb85d71684.png”>
+<img src="https://cloud.githubusercontent.com/assets/495102/4976671/0bb96f2a-68df-11e4-8d69-bbcb85d71684.png">
 
 All of the icons used in the project are free and open to use under [the CC license below](http://creativecommons.org/licenses/by-nc-sa/4.0/).
