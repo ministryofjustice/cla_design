@@ -17,18 +17,6 @@ The overall design of the interface is furthering the standards in the [GDS Desi
 
 **The Specialist Provider** who is a legal professional who is assigned the case by the operator and will handle the user's case
 
-# Design files
-
-The design is done for the most part in [Bohemian Coding’s Sketch](http://bohemiancoding.com/sketch) with the following files:
-
-**cla-icons.sketch** - A template for the icon font produced using [gulp-iconfont](https://www.npmjs.org/package/gulp-iconfont) which creates icon fonts from SVG icons and [gulp-iconfont-css](https://www.npmjs.org/package/gulp-iconfont-css) which generates the (S)CSS file for the icon font created with Gulp. Both require Node.js. The icons are 512w x 512h to generate the icon font, however they are designed to display at 16px.
-
-**Operator-Provider.sketch** - Where the majority of the design work on the tool is done. This is the complete design of the case handling system (CHS). This also includes all the design work for the Styles & Elements as outlined below.
-
-**User_mobile.sketch** - Designs for how the user form would look for mobile.
-
-**User.sketch** - The design for the form that the member of the public would use via [GOV.UK](https://www.gov.uk)
-
 # Links
 [CLA frontend GitHub](https://github.com/ministryofjustice/cla_frontend)
 
@@ -75,6 +63,18 @@ Case interface assessment test
 
 Assigning a case for Civil Legal Aid
 <img src="https://cloud.githubusercontent.com/assets/495102/4885846/81b31e00-6377-11e4-9fa8-df8462199c92.png">
+
+- - - -
+
+### Icons
+
+A template for the icon font produced using [gulp-iconfont](https://www.npmjs.org/package/gulp-iconfont) which creates icon fonts from SVG icons and [gulp-iconfont-css](https://www.npmjs.org/package/gulp-iconfont-css) which generates the (S)CSS file for the icon font created with Gulp. Both require Node.js. The icons are 512w x 512h to generate the icon font, however they are designed to display at 16px.
+
+![](https://cloud.githubusercontent.com/assets/495102/4976671/0bb96f2a-68df-11e4-8d69-bbcb85d71684.png)
+
+[They’re available in this repo here](https://github.com/ministryofjustice/cla_design/tree/master/cla-icons”)
+
+All of the icons used in the project are free and open to use under [the CC license below](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 - - - -
 
