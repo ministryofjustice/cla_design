@@ -36,7 +36,7 @@ The overall design of the interface is furthering the standards in the [GDS Desi
 ### Colours
 > ![](https://cloud.githubusercontent.com/assets/495102/4829534/be184d32-5f87-11e4-927d-1fb2068bf070.png)
 ### Buttons
-> ![](https://cloud.githubusercontent.com/assets/495102/4830248/7806b9c8-5f8c-11e4-95fd-7452bdc7d952.png)
+> ![](https://cloud.githubusercontent.com/assets/495102/4994734/88e8b88c-69b3-11e4-8dd5-a80bb558ae59.png)
 
 ### Tabs & Pills
 
