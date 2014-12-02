@@ -56,6 +56,10 @@ The overall design of the interface is furthering the standards in the [GDS Desi
 
 - - - -
 
+### User scenarios
+
+![](http://ministryofjustice.github.io/service-screens/service/civil-legal-advice/index.html)
+
 ### Key screens
 Admin case handling system queue
 <img src="https://cloud.githubusercontent.com/assets/495102/4885828/6d2b8382-6377-11e4-9c32-12666f146c9d.png">
