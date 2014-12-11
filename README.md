@@ -28,6 +28,22 @@ The overall design of the interface is furthering the standards in the [GDS Desi
 
 [Case interface - Integration version](https://dchtm6r471mui.cloudfront.net/hackpad.com_B2kIZMUCiTq_p.113892_1412265727578_cla-case.gif)
 
+- - - -
+
+# User scenarios
+
+[Click throughs of various operator scenarios](http://ministryofjustice.github.io/service-screens/service/civil-legal-advice/index.html)
+
+### Key screens
+Admin case handling system queue
+<img src="https://cloud.githubusercontent.com/assets/495102/4885828/6d2b8382-6377-11e4-9c32-12666f146c9d.png">
+
+Case interface assessment test
+<img src="https://cloud.githubusercontent.com/assets/495102/4885808/4c761e22-6377-11e4-8237-2544e630279e.png">
+
+Assigning a case for Civil Legal Aid
+<img src="https://cloud.githubusercontent.com/assets/495102/4885846/81b31e00-6377-11e4-9fa8-df8462199c92.png">
+
 # Styles & Elements
 
 ## Typography
@@ -53,18 +69,6 @@ The overall design of the interface is furthering the standards in the [GDS Desi
 
 ### Progress bars
 > ![](https://cloud.githubusercontent.com/assets/495102/4841932/f33e2660-601f-11e4-9aec-cc6bf92c2e1b.png)
-
-- - - -
-
-### Key screens
-Admin case handling system queue
-<img src="https://cloud.githubusercontent.com/assets/495102/4885828/6d2b8382-6377-11e4-9c32-12666f146c9d.png">
-
-Case interface assessment test
-<img src="https://cloud.githubusercontent.com/assets/495102/4885808/4c761e22-6377-11e4-8237-2544e630279e.png">
-
-Assigning a case for Civil Legal Aid
-<img src="https://cloud.githubusercontent.com/assets/495102/4885846/81b31e00-6377-11e4-9fa8-df8462199c92.png">
 
 - - - -
 
